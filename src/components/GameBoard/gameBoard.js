@@ -253,7 +253,6 @@ const GameBoard = ({ boardSize }) => {
     let battleWinner;
     let value1 = botA.boolean;
     let value2 = botB.boolean;
-    console.log(value1, value2, operator);
 
     switch (operator) {
       case "AND":

@@ -26,7 +26,6 @@ function Leaderboard({ battleResults }) {
   };
 
   // const gameLosers = gameResults.filter
-  console.log(gameResults);
   const results = [
     {
       id: bot1Data.id,
